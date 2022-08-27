@@ -12,3 +12,12 @@ feature extraction to drag out the type of recoloration
 required for the desired patients and maintaining
 accuracy along with the originality of the size and the
 frames.
+
+![](/images/flowchart.png)
+
+Results :
+
+![](/images/result1.png)
+
+
+![](/images/result2.png)
